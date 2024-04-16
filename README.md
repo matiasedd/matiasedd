@@ -1,5 +1,5 @@
-## Hi there 👋
-I'm Edison Matias, here's my resume:
+## Hi there 👋 I'm Edison Matias
+Here's my resume:
  
 ⚡ Data Scientist at Copel <br>
 ⚡ Data Engineer at ExxonMobil <br>
