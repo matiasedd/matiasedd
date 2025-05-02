@@ -1,5 +1,5 @@
-### hi there 👋
+### Hi there! 👋
 
-- 🎓 computer science student at federal university of paraná (UFPR)
-- 🧬 my main interests are ml/ai, computer vision and bioinformatics
+- 🎓 computer science student at Federal University of Paraná (UFPR)
+- 🧬 my main interests are AI/ML, computer vision and bioinformatics
 - 🐧 i use arch btw
